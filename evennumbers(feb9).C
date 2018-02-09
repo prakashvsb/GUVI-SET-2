@@ -4,7 +4,6 @@ void main()
 {
 int i,a;
 clrscr();
-
 printf("\n Enter the number");
 scanf("%d",&a);
 for(i=0;i<=a;i++)
